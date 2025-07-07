@@ -1,0 +1,42 @@
+{
+    "car_left": [
+        "yourfilename/soundname.wav",
+        "yourfilename/soundname.wav"
+    ],
+    "car_right": [
+        "yourfilename/soundname.wav",
+        "yourfilename/soundname.wav"
+    ],
+    "car_behind": [
+        "yourfilename/soundname.wav",
+        "yourfilename/soundname.wav"
+    ],
+    "three_wide": [
+        "yourfilename/soundname.wav",
+        "yourfilename/soundname.wav"
+    ],
+    "three_wide_top": [
+        "yourfilename/soundname.wav",
+        "yourfilename/soundname.wav"
+    ],
+    "three_wide_bottom": [
+        "yourfilename/soundname.wav",
+        "yourfilename/soundname.wav"
+    ],
+    "clear": [
+        "yourfilename/soundname.wav",
+        "yourfilename/soundname.wav"
+    ],
+    "caution": [
+        "yourfilename/soundname.wav",
+        "yourfilename/soundname.wav"
+    ],
+    "coming_to_the_green": [
+        "yourfilename/soundname.wav",
+        "yourfilename/soundname.wav"
+    ],
+    "green": [
+        "yourfilename/soundname.wav",
+        "yourfilename/soundname.wav"
+    ]
+}
