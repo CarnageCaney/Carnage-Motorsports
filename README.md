@@ -1,4 +1,3 @@
-#Carnage-Motorsports
 Welcome to the Carnage Motorsports GitHub!
 
 Carnage Motorsports Discord: https://discord.gg/hDPVqqqFNQ
